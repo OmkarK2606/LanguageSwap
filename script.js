@@ -22,6 +22,12 @@ const languages = [
         description: 'हमारी वेबसाइट पर आपका स्वागत है।',
         buttonText: 'Switch to English',
     },
+    {
+        name: 'German',
+        header: 'Hallo, Welt!',
+        description: 'Willkommen auf unserer Webseite.',
+        buttonText: 'Switch to English',
+    },
 ];
 
 languageBtn.addEventListener('click', () => {
