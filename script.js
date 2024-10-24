@@ -16,6 +16,12 @@ const languages = [
         description: 'Bienvenido a nuestro sitio web.',
         buttonText: 'Switch to Hindi',
     },
+    {
+        name: 'Hindi',
+        header: 'नमस्ते, दुनिया!',
+        description: 'हमारी वेबसाइट पर आपका स्वागत है।',
+        buttonText: 'Switch to Marathi',
+    }
 ];
 
 languageBtn.addEventListener('click', () => {
